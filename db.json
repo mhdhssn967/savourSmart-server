@@ -1,0 +1,483 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Classic Pancakes",
+      "image": "https://iwashyoudry.com/wp-content/uploads/2019/05/Classic-Pancake-Recipe-11.jpg",
+      "ingredients": [
+        "flour",
+        "milk",
+        "eggs",
+        "sugar",
+        "baking powder",
+        "butter",
+        "salt"
+      ],
+      "availableItems": [
+        "flour",
+        "milk",
+        "eggs"
+      ],
+      "instructions": "In a bowl, mix flour, sugar, baking powder, and salt. In another bowl, beat the eggs and mix with milk and melted butter. Pour the wet ingredients into the dry ingredients and whisk until smooth. Heat a pan, pour batter, and cook until bubbles form on the surface. Flip and cook until golden brown.",
+      "time": "20 minutes"
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Carbonara",
+      "image": "https://bellyfull.net/wp-content/uploads/2023/02/Spaghetti-Carbonara-blog-1.jpg",
+      "ingredients": [
+        "spaghetti",
+        "eggs",
+        "parmesan cheese",
+        "bacon",
+        "black pepper",
+        "salt"
+      ],
+      "availableItems": [
+        "spaghetti",
+        "eggs",
+        "bacon"
+      ],
+      "instructions": "Cook spaghetti according to package instructions. In a bowl, whisk eggs and parmesan. Cook bacon until crispy, then remove from heat. Add hot spaghetti to the pan with bacon and toss with egg mixture until creamy. Season with black pepper and serve.",
+      "time": "25 minutes"
+    },
+    {
+      "id": 3,
+      "name": "Avocado Toast",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FSeries%2F2024-01-social-perfect-avocado-toast%2Fperfect-avocado-toast-366-horizontal",
+      "ingredients": [
+        "bread",
+        "avocado",
+        "salt",
+        "pepper",
+        "olive oil"
+      ],
+      "availableItems": [
+        "bread",
+        "avocado"
+      ],
+      "instructions": "Toast the bread slices. Cut and mash avocado in a bowl with a pinch of salt and pepper. Spread avocado on toast, drizzle with olive oil, and sprinkle with extra pepper if desired.",
+      "time": "10 minutes"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Caesar Salad",
+      "image": "https://www.allrecipes.com/thmb/YklaDZF1zj7z4bU8Q28mYFryr5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3186344-9400cb8415144a2db2660cd6762c8cde.jpg",
+      "ingredients": [
+        "romaine lettuce",
+        "chicken breast",
+        "parmesan cheese",
+        "croutons",
+        "caesar dressing"
+      ],
+      "availableItems": [
+        "chicken breast",
+        "lettuce"
+      ],
+      "instructions": "Grill or pan-sear chicken breast until cooked through. Slice it thinly. In a large bowl, mix romaine lettuce, sliced chicken, croutons, and grated parmesan. Drizzle with caesar dressing and toss gently.",
+      "time": "15 minutes"
+    },
+    {
+      "id": 5,
+      "name": "Tomato Basil Pasta",
+      "image": "https://www.spoonfulofflavor.com/wp-content/uploads/2023/10/tomato-basil-pasta-recipe.jpg",
+      "ingredients": [
+        "pasta",
+        "cherry tomatoes",
+        "basil",
+        "olive oil",
+        "garlic",
+        "parmesan cheese"
+      ],
+      "availableItems": [
+        "pasta",
+        "tomatoes",
+        "basil"
+      ],
+      "instructions": "Cook pasta as directed on the package. In a pan, sauté minced garlic in olive oil until golden. Add cherry tomatoes and cook until soft. Toss in cooked pasta and fresh basil, season with salt and pepper, and top with parmesan cheese.",
+      "time": "20 minutes"
+    },
+    {
+      "id": 6,
+      "name": "Grilled Cheese Sandwich",
+      "image": "https://www.walderwellness.com/wp-content/uploads/2019/10/Gourmet-Grilled-Cheese-Sandwich-Walder-Wellness-5-500x500.jpg",
+      "ingredients": [
+        "bread",
+        "cheese",
+        "butter"
+      ],
+      "availableItems": [
+        "bread",
+        "cheese",
+        "butter"
+      ],
+      "instructions": "Butter one side of each bread slice. Place cheese between two slices, with buttered sides out. Heat a skillet and grill sandwich until golden on both sides and cheese melts.",
+      "time": "10 minutes"
+    },
+    {
+      "id": 7,
+      "name": "Caprese Salad",
+      "image": "https://emilybites.com/wp-content/uploads/2020/08/Caprese-Salad-7b.jpg",
+      "ingredients": [
+        "tomatoes",
+        "mozzarella",
+        "basil",
+        "olive oil",
+        "balsamic vinegar",
+        "salt",
+        "pepper"
+      ],
+      "availableItems": [
+        "tomatoes",
+        "mozzarella",
+        "basil"
+      ],
+      "instructions": "Slice tomatoes and mozzarella. Arrange them on a plate, alternating slices. Sprinkle fresh basil leaves, drizzle with olive oil and balsamic vinegar, and season with salt and pepper.",
+      "time": "10 minutes"
+    },
+    {
+      "id": 8,
+      "name": "French Omelette",
+      "image": "https://images.ricardocuisine.com/services/recipes/9168.jpg",
+      "ingredients": [
+        "eggs",
+        "butter",
+        "salt",
+        "pepper"
+      ],
+      "availableItems": [
+        "eggs",
+        "butter"
+      ],
+      "instructions": "Whisk eggs with salt and pepper until fully combined. Heat butter in a non-stick skillet. Pour eggs into the skillet and cook over low heat, stirring gently until just set. Fold and serve.",
+      "time": "10 minutes"
+    },
+    {
+      "id": 9,
+      "name": "Banana Smoothie",
+      "image": "https://thebakersalmanac.com/wp-content/uploads/2019/03/chocolate-banana-smoothie-new-recipe-image.jpg",
+      "ingredients": [
+        "banana",
+        "milk",
+        "yogurt",
+        "honey"
+      ],
+      "availableItems": [
+        "banana",
+        "milk"
+      ],
+      "instructions": "In a blender, combine banana, milk, yogurt, and honey. Blend until smooth and serve chilled.",
+      "time": "5 minutes"
+    },
+    {
+      "id": 10,
+      "name": "Greek Salad",
+      "image": "https://www.onceuponachef.com/images/2023/06/greek-salad-1-760x935.jpg",
+      "ingredients": [
+        "cucumber",
+        "tomatoes",
+        "feta cheese",
+        "olive oil",
+        "red onion",
+        "olives"
+      ],
+      "availableItems": [
+        "cucumber",
+        "tomatoes",
+        "feta cheese"
+      ],
+      "instructions": "Chop cucumber, tomatoes, and red onion. Mix in a bowl with olives and feta. Drizzle with olive oil and season with salt and pepper.",
+      "time": "10 minutes"
+    },
+    {
+      "id": 11,
+      "name": "Stuffed Bell Peppers",
+      "image": "https://saltedmint.com/wp-content/uploads/2024/01/Easy-Stuffed-bell-peppers-with-rice-2.jpg",
+      "ingredients": [
+        "bell peppers",
+        "ground beef",
+        "rice",
+        "tomato sauce",
+        "onion",
+        "garlic",
+        "cheese"
+      ],
+      "availableItems": [
+        "bell peppers",
+        "rice",
+        "tomato sauce"
+      ],
+      "instructions": "Preheat oven to 375°F. Cut tops off bell peppers and remove seeds. In a skillet, cook ground beef, onion, and garlic until beef is browned. Add cooked rice and tomato sauce to the beef mixture. Stuff each bell pepper with the filling and top with cheese. Bake for 25 minutes.",
+      "time": "45 minutes"
+    },
+    {
+      "id": 12,
+      "name": "Vegetable Stir Fry",
+      "image": "https://www.wholesomeyum.com/wp-content/uploads/2020/11/wholesomeyum-Stir-Fry-Vegetables-15.jpg",
+      "ingredients": [
+        "broccoli",
+        "carrots",
+        "bell peppers",
+        "soy sauce",
+        "ginger",
+        "garlic",
+        "sesame oil"
+      ],
+      "availableItems": [
+        "broccoli",
+        "carrots",
+        "soy sauce"
+      ],
+      "instructions": "Heat sesame oil in a pan. Add garlic and ginger, sauté for a minute. Add broccoli, carrots, and bell peppers. Stir fry until vegetables are tender-crisp. Add soy sauce and stir for another 2-3 minutes. Serve hot.",
+      "time": "20 minutes"
+    },
+    {
+      "id": 13,
+      "name": "Shrimp Tacos",
+      "image": "https://i2.wp.com/wanderingchickpea.com/wp-content/uploads/2021/08/DSCF9976.jpg?fit=735%2C980",
+      "ingredients": [
+        "shrimp",
+        "tortillas",
+        "cabbage",
+        "lime",
+        "cilantro",
+        "avocado",
+        "sour cream"
+      ],
+      "availableItems": [
+        "shrimp",
+        "tortillas",
+        "lime"
+      ],
+      "instructions": "Cook shrimp in a skillet until pink and opaque. Prepare tortillas and add cooked shrimp. Top with shredded cabbage, sliced avocado, cilantro, and a squeeze of lime. Serve with sour cream if desired.",
+      "time": "15 minutes"
+    },
+    {
+      "id": 14,
+      "name": "Creamy Mushroom Pasta",
+      "image": "https://familystylefood.com/wp-content/uploads/2020/02/mushroom-linguine-close.jpg",
+      "ingredients": [
+        "pasta",
+        "mushrooms",
+        "cream",
+        "parmesan cheese",
+        "garlic",
+        "butter"
+      ],
+      "availableItems": [
+        "pasta",
+        "mushrooms",
+        "cream"
+      ],
+      "instructions": "Cook pasta according to package instructions. Sauté garlic and mushrooms in butter until soft. Add cream and let it simmer. Toss in pasta and grated parmesan cheese. Stir until well coated.",
+      "time": "25 minutes"
+    },
+    {
+      "id": 15,
+      "name": "Chili Con Carne",
+      "image": "https://www.recipetineats.com/tachyon/2016/06/Chili-Con-Carne_8.jpg",
+      "ingredients": [
+        "ground beef",
+        "kidney beans",
+        "tomato sauce",
+        "onion",
+        "garlic",
+        "chili powder"
+      ],
+      "availableItems": [
+        "ground beef",
+        "beans",
+        "tomato sauce"
+      ],
+      "instructions": "Brown ground beef with onion and garlic in a large pot. Add kidney beans, tomato sauce, and chili powder. Let simmer for 30 minutes, stirring occasionally. Serve with rice or tortilla chips.",
+      "time": "1 hour"
+    },
+    {
+      "id": 16,
+      "name": "Chicken Fried Rice",
+      "image": "https://nishkitchen.com/wp-content/uploads/2015/11/Indo-Chinese-Chicken-Fried-Rice-2B.jpg",
+      "ingredients": [
+        "rice",
+        "chicken breast",
+        "carrots",
+        "peas",
+        "soy sauce",
+        "egg"
+      ],
+      "availableItems": [
+        "rice",
+        "chicken",
+        "egg"
+      ],
+      "instructions": "Cook rice and set aside. Sauté diced chicken in a pan. Add carrots, peas, and rice, stirring well. Push rice to the side and scramble an egg in the pan. Mix everything together, season with soy sauce, and serve hot.",
+      "time": "30 minutes"
+    },
+    {
+      "id": 17,
+      "name": "Chocolate Chip Cookies",
+      "image": "https://www.recipetineats.com/tachyon/2017/06/Soft-Chocolate-Chip-Cookies-3.jpg?resize=500%2C500",
+      "ingredients": [
+        "flour",
+        "butter",
+        "sugar",
+        "chocolate chips",
+        "egg",
+        "baking soda",
+        "salt"
+      ],
+      "availableItems": [
+        "flour",
+        "butter",
+        "sugar"
+      ],
+      "instructions": "Preheat oven to 350°F. In a bowl, cream butter and sugar until fluffy. Add egg and mix well. Combine flour, baking soda, and salt, and gradually mix into the butter mixture. Fold in chocolate chips. Scoop dough onto a baking sheet and bake for 10-12 minutes.",
+      "time": "25 minutes"
+    },
+    {
+      "id": 18,
+      "name": "Beef Tacos",
+      "image": "https://thetoastykitchen.com/wp-content/uploads/2024/05/ground-beef-tacos-plated.jpg",
+      "ingredients": [
+        "ground beef",
+        "taco shells",
+        "lettuce",
+        "tomato",
+        "cheddar cheese",
+        "sour cream"
+      ],
+      "availableItems": [
+        "ground beef",
+        "taco shells",
+        "lettuce"
+      ],
+      "instructions": "Cook ground beef in a skillet until browned. Assemble taco shells with beef, lettuce, diced tomato, and cheddar cheese. Top with sour cream if desired.",
+      "time": "15 minutes"
+    },
+    {
+      "id": 19,
+      "name": "Apple Crumble",
+      "image": "https://www.amysnutritionkitchen.com/wp-content/uploads/2021/05/Apple-Crumble-For-Two-Snapseed-WordPress-picture.jpeg",
+      "ingredients": [
+        "apples",
+        "flour",
+        "sugar",
+        "butter",
+        "cinnamon"
+      ],
+      "availableItems": [
+        "apples",
+        "flour",
+        "sugar"
+      ],
+      "instructions": "Preheat oven to 375°F. Slice apples and toss with sugar and cinnamon. In a bowl, mix flour, sugar, and butter until crumbly. Spread apples in a baking dish, top with the crumble, and bake for 30 minutes.",
+      "time": "40 minutes"
+    },
+    {
+      "id": 20,
+      "name": "Classic Hummus",
+      "image": "https://www.orchidsandsweettea.com/wp-content/uploads/2024/04/Classic-Hummus-6.jpg",
+      "ingredients": [
+        "chickpeas",
+        "tahini",
+        "lemon juice",
+        "garlic",
+        "olive oil"
+      ],
+      "availableItems": [
+        "chickpeas",
+        "lemon juice"
+      ],
+      "instructions": "In a blender, combine chickpeas, tahini, lemon juice, and garlic. Blend until smooth, adding olive oil as needed. Serve with pita bread or fresh vegetables.",
+      "time": "10 minutes"
+    },
+    {
+      "id": 21,
+      "name": "BBQ Chicken Wings",
+      "image": "https://www.gillsbakesandcakes.com/wp-content/uploads/2022/02/bbq-wings-scaled.jpg",
+      "ingredients": [
+        "chicken wings",
+        "bbq sauce",
+        "salt",
+        "pepper"
+      ],
+      "availableItems": [
+        "chicken wings",
+        "bbq sauce"
+      ],
+      "instructions": "Preheat oven to 400°F. Season wings with salt and pepper, bake for 20 minutes, then coat with BBQ sauce and bake for another 10 minutes.",
+      "time": "40 minutes"
+    },
+    {
+      "id": 22,
+      "name": "Garlic Bread",
+      "image": "https://www.ambitiouskitchen.com/wp-content/uploads/2023/02/Garlic-Bread-4.jpg",
+      "ingredients": [
+        "bread",
+        "butter",
+        "garlic",
+        "parsley"
+      ],
+      "availableItems": [
+        "bread",
+        "butter",
+        "garlic"
+      ],
+      "instructions": "Spread garlic butter on bread slices, sprinkle with parsley, and bake at 350°F for 10 minutes.",
+      "time": "15 minutes"
+    },
+    {
+      "id": 23,
+      "name": "Vegetable Soup",
+      "image": "https://www.theroastedroot.net/wp-content/uploads/2020/09/easy-vegetable-soup-4.jpg",
+      "ingredients": [
+        "carrots",
+        "celery",
+        "potatoes",
+        "tomato",
+        "onion",
+        "garlic",
+        "vegetable broth"
+      ],
+      "availableItems": [
+        "carrots",
+        "celery",
+        "potatoes"
+      ],
+      "instructions": "Sauté onion and garlic, add other vegetables and broth. Simmer until veggies are tender.",
+      "time": "30 minutes"
+    },
+    {
+      "id": 24,
+      "name": "Roasted Brussels Sprouts",
+      "image": "https://images.themodernproper.com/billowy-turkey/production/posts/2022/RoastedBrusselsSprouts_5.jpg?w=1200&q=82&auto=format&fit=crop&dm=1662847269&s=4c32c8dcf94048917b597d0e704d6a6a",
+      "ingredients": [
+        "brussels sprouts",
+        "olive oil",
+        "salt",
+        "pepper"
+      ],
+      "availableItems": [
+        "brussels sprouts",
+        "olive oil"
+      ],
+      "instructions": "Toss brussels sprouts with olive oil, salt, and pepper, roast at 400°F for 20 minutes.",
+      "time": "25 minutes"
+    }
+  ],
+  "userRecipe": [
+    {
+      "name": "Chicken Biryani",
+      "ingredients": [
+        "Biriyani",
+        "1 kg chicken, cut into pieces",
+        "2 cups basmati rice",
+        "1/2 cup yogurt",
+        "1 tbsp ginger-garlic paste"
+      ],
+      "time": "90",
+      "instructions": "To prepare Chicken Biryani, begin by thoroughly washing 2 cups of basmati rice and soaking it in water for 30 minutes, then drain and set aside. In a large pot, heat 3 tablespoons of cooking oil and 2 tablespoons of ghee over medium heat, adding a cinnamon stick, 3-4 cardamom pods, 4-5 cloves, and a bay leaf. Sauté these spices until they release their fragrance. Add 1 large thinly sliced onion, cooking until it turns golden brown, then stir in 1 tablespoon of ginger-garlic paste and 2-3 slit green chilies, cooking for another 2 minutes. Next, add 2 chopped tomatoes, 1 teaspoon of red chili powder, 1/2 teaspoon of turmeric powder, and salt to taste. Cook until the tomatoes soften. Now, add 1 kg of chicken pieces and cook them until no longer pink and well-coated with spices. Stir in 1/2 cup of yogurt, cooking for 5 more minutes, then sprinkle in 1 teaspoon of garam masala powder along with half of the chopped fresh coriander and mint leaves.",
+      "imgURL": "https://www.pavaniskitchen.com/wp-content/uploads/2021/02/chbiryani.jpg",
+      "id": 1
+    }
+  ]
+}
